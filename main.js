@@ -1,5 +1,5 @@
 var typed = new Typed(".text",{
-    strings:['Customer Service Associate.','Business Intelligence.','Meme Creation.','Food Vlogging.','Adventure Explorer.','Data Analytics.'],
+    strings:['Customer Services & Operations.','Business Intelligence.','Meme Creation.','Food Vlogging.','Adventure Explorer.','Data Analytics.'],
     typeSpeed:150,
     backSpeed:150,
     backDelay:1000,
